@@ -7,7 +7,7 @@ import styled from 'styled-components';
 function App() {
   return (
     <div className="App">
-      {/* <Header /> */}
+      <Header />
       <Home />
     </div>
   );
